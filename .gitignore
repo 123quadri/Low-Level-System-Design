@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+.vscode/
+
+# Ignore specific executables without extensions
+C++/OOPS/TypesOfInheritance
