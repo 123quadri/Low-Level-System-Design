@@ -4,4 +4,10 @@
 .vscode/
 
 # Ignore specific executables without extensions
-C++/OOPS/TypesOfInheritance
+*
+!/**/
+!*.*
+
+**/*
+!**/*.*
+!**/
